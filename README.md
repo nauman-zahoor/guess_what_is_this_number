@@ -1,5 +1,6 @@
 # Guess a Number
 Game that askes user to guess a number between 0 and 100.
+This code is used to create a package on pypi.
 
 ## Installation
 Game should work with a standard Python 3 installation.
